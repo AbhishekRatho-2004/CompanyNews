@@ -13,4 +13,4 @@ streamlit_authenticator==0.2.2
 streamlit_lottie==0.0.5
 streamlit_option_menu==0.3.6
 yfinance==0.2.27
-~treamlit==1.25.0
+streamlit==1.25.0
